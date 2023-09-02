@@ -1,6 +1,7 @@
 
 
 *.pyc
+.env
 
 # Packages
 *.egg
